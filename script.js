@@ -21,6 +21,7 @@ function affNbLettres () {
         aff.innerHTML += " _ ";
     }
 }
+//
 
 affNbLettres();
 
